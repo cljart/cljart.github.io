@@ -9,5 +9,6 @@ layout: default
 
 * [squares](squares.html)
 * [beeps](beeps.html)
+* [l33tr00m chat](http://l33tr00m.herokuapp.com/)
 
 <small><sup>*</sup> pronounced "with a heart"</small>
