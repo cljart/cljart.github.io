@@ -1,0 +1,66 @@
+body {
+font-family: 'Source Code Pro' ;
+padding: 2% 5% 5% 5%; 
+}
+
+h1 {
+  color: #fbad4c;
+}
+
+a:link { 
+  color: #fbad4c;
+  text-decoration: none;
+}
+
+a.projects:link {
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    background-color: #fbad4c; 
+    padding: 10 20 0 20;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    float: left;
+}
+
+a.coaching:link { 
+  color: #fbad4c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:visited { 
+  color: #fbad4c;
+  text-decoration: none; 
+}
+
+a.projects:visited { 
+  color: #FFF;
+  text-decoration: none; 
+}
+
+a:hover { 
+  color: #e1621c; 
+}
+
+a.projects:hover {
+  color: #e1621c; 
+  background-color: #fbe97c;
+}
+
+a.coaching:hover {
+  color: #e1621c;
+}
+
+a:active { 
+  color: #e1621c;
+  background-color: #fbe97c;
+}
+
+.box {
+  background-color: #F2F0F1;
+  padding: 10 20 10 20;
+  border-radius: 25px;
+}
