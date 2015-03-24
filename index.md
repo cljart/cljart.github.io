@@ -18,7 +18,7 @@ On Mondays we play around with
 
 <div class="box">
 ### ClojureBridge
-Currently we are planning the [ClojureBridge](http://www.clojurebridge.org/) Berlin!  
+Currently we are planning [ClojureBridge](http://www.clojurebridge.org/){:.coaching} Berlin! <br>
 Which is a free, beginner-friendly Clojure programming workshop for women.  
 
 [Sign up for coaching!](https://docs.google.com/forms/d/1tZXTsTPkeHA4EAW2pMVk_CzW1FkSxmGRWrgdvkPI__4/viewform?c=0&w=1&fbzx=3635869930483963967){:.coaching}
