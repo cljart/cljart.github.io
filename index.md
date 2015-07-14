@@ -9,12 +9,14 @@ layout: default
 <small><sup>*</sup> pronounced "with a heart"</small>  
 
 We are a learners group and programmer collective.  
-On Mondays we play around with  
+For one year we met on Mondays and played around with  
 
 * Clojure/Clojurescript  
 * Music    
 * Animation  
 * and everything that comes to our mind.  
+
+Now we are in our summerbreak!  
 
 <div class="box">
 ### ClojureBridge
