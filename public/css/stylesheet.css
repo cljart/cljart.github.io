@@ -25,7 +25,7 @@ a.projects:link {
     float: left;
 }
 
-a.coaching:link { 
+a.highlight_link:link { 
   color: #fbad4c;
   font-weight: bold;
   text-decoration: none;
@@ -50,7 +50,7 @@ a.projects:hover {
   background-color: #fbe97c;
 }
 
-a.coaching:hover {
+a.highlight_link:hover {
   color: #e1621c;
 }
 
