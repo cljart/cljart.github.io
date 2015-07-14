@@ -8,22 +8,25 @@ layout: default
 
 <small><sup>*</sup> pronounced "with a heart"</small>  
 
-We are a learners group and programmer collective.  
-For one year we met on Mondays and played around with  
+We are a learners group and programmer collective:  
+[@jellea](https://twitter.com/jellea){:.highlight_link}, [@nicsnet](https://twitter.com/nicsnet){:.highlight_link}, [@malweene](https://twitter.com/malweene){:.highlight_link}, [@plexus](https://twitter.com/plexus){:.highlight_link}, [@thatbettina](https://twitter.com/thatbettina){:.highlight_link}  
+
+Usually we meet on Mondays and play around with  
 
 * Clojure/Clojurescript  
 * Music    
 * Animation  
 * and everything that comes to our mind.  
 
-Now we are in our summerbreak!  
+Currently we are in our summerbreak!  
+But we keep reading [this awesome book.](http://www.braveclojure.com/)
 
 <div class="box">
 ### ClojureBridge
-Currently we are planning [ClojureBridge](http://www.clojurebridge.org/){:.coaching} Berlin! <br>
-Which is a free, beginner-friendly Clojure programming workshop for women.  
+ClojureBridge is a free, beginner-friendly Clojure programming workshop for women.  
 
-[Sign up for coaching!](https://docs.google.com/forms/d/1tZXTsTPkeHA4EAW2pMVk_CzW1FkSxmGRWrgdvkPI__4/viewform?c=0&w=1&fbzx=3635869930483963967){:.coaching}
+In July 2015 we organized our own [ClojureBridge Workshop](https://clojurebridge-berlin.github.io/){:.highlight_link} in Berlin! <br>
+
 </div>
 
 ### Our projects
